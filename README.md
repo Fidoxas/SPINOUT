@@ -6,4 +6,4 @@ Instalacja Sklonuj lub pobierz repozytorium na swój lokalny komputer. Otwórz U
 
 Tworzenie buildu Aby stworzyć build gry, wybierz File > Build Settings.... Wybierz docelową platformę (np. Windows, macOS). Kliknij Build, aby utworzyć wersję gry jako plik wykonywalny, który będzie można uruchomić bezpośrednio na docelowym urządzeniu.
 
-Jak grać? gra Się myszką naciskajac na lewą strone ekranu bądź prawą to pozwala robić uniki. Celem jest nie wpaść na przeszkodę
+Jak grać? gra Się myszką naciskajac na lewą strone ekranu bądź prawą, to pozwala robić uniki. Celem jest nie wpaść na przeszkodę
