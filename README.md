@@ -5,3 +5,5 @@ Wymagania wstępne Unity: Aby otworzyć i uruchomić projekt, wymagane jest zain
 Instalacja Sklonuj lub pobierz repozytorium na swój lokalny komputer. Otwórz Unity Hub. Wybierz "Add" i wskaż folder, w którym sklonowałeś/pobrałeś projekt. Otwórz projekt w Unity. Naciśnij przycisk Run (u góry ekranu na środku), aby uruchomić grę.
 
 Tworzenie buildu Aby stworzyć build gry, wybierz File > Build Settings.... Wybierz docelową platformę (np. Windows, macOS). Kliknij Build, aby utworzyć wersję gry jako plik wykonywalny, który będzie można uruchomić bezpośrednio na docelowym urządzeniu.
+
+Jak grać? gra Się myszką naciskajac na lewą strone ekranu bądź prawą to pozwala robić uniki. Celem jest nie wpaść na przeszkodę
